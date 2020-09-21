@@ -1,0 +1,74 @@
+
+#banner{
+	background-image: url("https://i.picsum.photos/id/1057/6016/4016.jpg?hmac=RjPyzbGq_MxSbghhfa1iVykXTskk9IISuzavny11_lI");
+	background-size: cover;
+	padding: 120px;
+	text-align: center
+}	
+
+#banner h1{
+	color: #C44536;
+	opacity: 0.8;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 1px 1px red;
+
+}
+
+#banner p{
+	color:#283D3B;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: solid;
+}
+
+.card{
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 2px 2px #A9ACA9;
+	padding: 15px;
+	padding-top:20px;
+}
+
+#footer{
+	background-color:#283D3B;
+	opacity: 0.7;
+	margin-top:20px;
+	padding: 3px;
+	}
+
+#footer p{color:white;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 13px;
+	opacity: 0.9;
+	}
+
+#footer a{
+	color: white;
+	}
+
+.container {
+	margin-top: 15px;
+}
+
+.list-inline {
+	margin: 3px;
+}
+
+h2{
+	margin-top: 5px;
+	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+}
+
+p{
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+}
+
+a{
+	font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+	color:#C44536;
+}
